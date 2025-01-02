@@ -9,5 +9,6 @@ The goal of the tool is to provide necessary insight so that small investors can
     - Shares offloaded.
     - Change in holdings.
     - Change in Market value.
+* SEC publishes all the 13F in a zip. Write a method to list available dataset from https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets
 * Evaluate 13F files for multiple companies and identify:
     - Common shares across the files.
